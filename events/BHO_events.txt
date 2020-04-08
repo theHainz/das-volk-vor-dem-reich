@@ -1,0 +1,27 @@
+add_namespace = Bohemia-Hungary
+
+news_event = {
+	id = bh.1 
+	title = bh.1.t
+	desc = bh.1.d
+	picture = GFX_report_event_election_vote
+	
+	is_triggered_only = yes
+
+	option = {
+		name = bh.1.a
+	}
+}
+#
+news_event = {
+	id = bh.2 
+	title = bh.2.t
+	desc = bh.2.d
+	picture = GFX_report_event_election_vote
+	
+	is_triggered_only = yes
+
+	option = {
+		name = bh.2.a
+	}
+}
