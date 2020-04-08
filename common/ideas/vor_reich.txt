@@ -1,0 +1,113 @@
+ideas = {
+
+	country = {
+		
+		dual_monarchy = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = HUN_hungarian_monarchy_habsburg
+			
+			modifier = {
+				stability_weekly = -0.005
+				surrender_limit = -0.05
+				offensive_war_stability_factor = -0.05
+				planning_speed = -0.05
+			}
+		}
+		
+		dual_monarchy_2 = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = HUN_hungarian_monarchy_habsburg
+			
+			modifier = {
+				stability_weekly = -0.0025
+				surrender_limit = -0.025
+				offensive_war_stability_factor = -0.025
+				planning_speed = -0.025
+			}
+		}
+		
+		trial_monarchy = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = HUN_hungarian_monarchy_habsburg
+			
+			modifier = {
+				stability_weekly = 0.66
+				surrender_limit = 0.66
+				offensive_war_stability_factor = -0.66
+				planning_speed = -0.66
+			}
+		}
+		
+		Transylvania_crisis = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = aus_transylvania_crisis.dds
+			
+			modifier = {
+				stability_weekly = -0.005
+				surrender_limit = -0.3
+				offensive_war_stability_factor = -0.05
+				planning_speed = -0.05
+			}
+		}
+		
+		angry_nationalists = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = angry_nationalists.dds
+			
+			modifier = {
+			stability_weekly = -0.005
+			}
+		}		
+
+	}
+}
