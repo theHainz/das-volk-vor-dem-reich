@@ -463,7 +463,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_ideology_authoritarianism_group"
-		texturefile = "gfx/interface/ideologies/neutrality_group.dds"
+		texturefile = "gfx/interface/ideologies/authoritarianism.dds"
 	}
 	
 	spriteType = {
